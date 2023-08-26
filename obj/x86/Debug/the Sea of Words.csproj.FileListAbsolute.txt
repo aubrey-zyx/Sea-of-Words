@@ -1,0 +1,99 @@
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\词海迷航\the Sea of Words\the Sea of Words\bin\Debug\the Sea of Words.exe
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\词海迷航\the Sea of Words\the Sea of Words\bin\Debug\the Sea of Words.pdb
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\词海迷航\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.Properties.Resources.resources
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\词海迷航\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.csproj.GenerateResource.Cache
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\词海迷航\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.exe
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\词海迷航\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.pdb
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\词海迷航\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.csprojResolveAssemblyReference.cache
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\词海迷航\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.CHNgame.resources
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\词海迷航\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.maininterface.resources
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\词海迷航\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.ENGgame.resources
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\词海迷航\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.login.resources
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\词海迷航\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.SPECIALgame.resources
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\词海迷航\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.BOSSgame.resources
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\词海迷航\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.Dic_Plan.resources
+C:\Users\Ynoah\Desktop\the Sea of Words\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.exe
+C:\Users\Ynoah\Desktop\the Sea of Words\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.pdb
+C:\Users\Ynoah\Desktop\the Sea of Words\the Sea of Words\the Sea of Words\bin\Debug\the Sea of Words.exe
+C:\Users\Ynoah\Desktop\the Sea of Words\the Sea of Words\the Sea of Words\bin\Debug\the Sea of Words.pdb
+C:\Users\Ynoah\Desktop\the Sea of Words\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.csprojResolveAssemblyReference.cache
+C:\Users\Ynoah\Desktop\the Sea of Words\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.BOSSgame.resources
+C:\Users\Ynoah\Desktop\the Sea of Words\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.CHNgame.resources
+C:\Users\Ynoah\Desktop\the Sea of Words\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.Dic_Plan.resources
+C:\Users\Ynoah\Desktop\the Sea of Words\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.ENGgame.resources
+C:\Users\Ynoah\Desktop\the Sea of Words\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.login.resources
+C:\Users\Ynoah\Desktop\the Sea of Words\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.maininterface.resources
+C:\Users\Ynoah\Desktop\the Sea of Words\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.Properties.Resources.resources
+C:\Users\Ynoah\Desktop\the Sea of Words\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.SPECIALgame.resources
+C:\Users\Ynoah\Desktop\the Sea of Words\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.csproj.GenerateResource.Cache
+C:\Users\JKCLZY77575\Documents\Visual Studio 2010\Projects\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.exe
+C:\Users\JKCLZY77575\Documents\Visual Studio 2010\Projects\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.pdb
+C:\Users\JKCLZY77575\Documents\Visual Studio 2010\Projects\the Sea of Words\the Sea of Words\bin\Debug\the Sea of Words.exe
+C:\Users\JKCLZY77575\Documents\Visual Studio 2010\Projects\the Sea of Words\the Sea of Words\bin\Debug\the Sea of Words.pdb
+C:\Users\JKCLZY77575\Documents\Visual Studio 2010\Projects\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.csprojResolveAssemblyReference.cache
+C:\Users\JKCLZY77575\Documents\Visual Studio 2010\Projects\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.BOSSgame.resources
+C:\Users\JKCLZY77575\Documents\Visual Studio 2010\Projects\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.CHNgame.resources
+C:\Users\JKCLZY77575\Documents\Visual Studio 2010\Projects\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.Dic_Plan.resources
+C:\Users\JKCLZY77575\Documents\Visual Studio 2010\Projects\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.ENGgame.resources
+C:\Users\JKCLZY77575\Documents\Visual Studio 2010\Projects\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.login.resources
+C:\Users\JKCLZY77575\Documents\Visual Studio 2010\Projects\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.maininterface.resources
+C:\Users\JKCLZY77575\Documents\Visual Studio 2010\Projects\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.Properties.Resources.resources
+C:\Users\JKCLZY77575\Documents\Visual Studio 2010\Projects\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.SPECIALgame.resources
+C:\Users\JKCLZY77575\Documents\Visual Studio 2010\Projects\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.exe
+C:\Users\Administrator\Desktop\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.pdb
+C:\Users\Administrator\Desktop\the Sea of Words\the Sea of Words\bin\Debug\the Sea of Words.exe
+C:\Users\Administrator\Desktop\the Sea of Words\the Sea of Words\bin\Debug\the Sea of Words.pdb
+C:\Users\Administrator\Desktop\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.BOSSgame.resources
+C:\Users\Administrator\Desktop\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.CHNgame.resources
+C:\Users\Administrator\Desktop\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.Dic_Plan.resources
+C:\Users\Administrator\Desktop\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.ENGgame.resources
+C:\Users\Administrator\Desktop\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.Form1.resources
+C:\Users\Administrator\Desktop\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.login.resources
+C:\Users\Administrator\Desktop\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.maininterface.resources
+C:\Users\Administrator\Desktop\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.Properties.Resources.resources
+C:\Users\Administrator\Desktop\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.SPECIALgame.resources
+C:\Users\Administrator\Desktop\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.csproj.GenerateResource.Cache
+C:\Users\bee\Desktop\the Sea of Words (2)\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.exe
+C:\Users\bee\Desktop\the Sea of Words (2)\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.pdb
+C:\Users\bee\Desktop\the Sea of Words (2)\the Sea of Words\the Sea of Words\bin\Debug\the Sea of Words.exe
+C:\Users\bee\Desktop\the Sea of Words (2)\the Sea of Words\the Sea of Words\bin\Debug\the Sea of Words.pdb
+C:\Users\bee\Desktop\the Sea of Words (2)\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.csprojResolveAssemblyReference.cache
+C:\Users\bee\Desktop\the Sea of Words (2)\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.BOSSgame.resources
+C:\Users\bee\Desktop\the Sea of Words (2)\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.CHNgame.resources
+C:\Users\bee\Desktop\the Sea of Words (2)\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.Dic_Plan.resources
+C:\Users\bee\Desktop\the Sea of Words (2)\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.ENGgame.resources
+C:\Users\bee\Desktop\the Sea of Words (2)\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.login.resources
+C:\Users\bee\Desktop\the Sea of Words (2)\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.maininterface.resources
+C:\Users\bee\Desktop\the Sea of Words (2)\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.Properties.Resources.resources
+C:\Users\bee\Desktop\the Sea of Words (2)\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.SPECIALgame.resources
+C:\Users\bee\Desktop\the Sea of Words (2)\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.csproj.GenerateResource.Cache
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\源代码\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.exe
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\源代码\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.pdb
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\源代码\the Sea of Words\the Sea of Words\bin\Debug\the Sea of Words.exe
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\源代码\the Sea of Words\the Sea of Words\bin\Debug\the Sea of Words.pdb
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\源代码\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.csprojResolveAssemblyReference.cache
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\源代码\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.BOSSgame.resources
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\源代码\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.CHNgame.resources
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\源代码\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.Dic_Plan.resources
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\源代码\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.ENGgame.resources
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\源代码\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.login.resources
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\源代码\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.maininterface.resources
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\源代码\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.Properties.Resources.resources
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\源代码\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.SPECIALgame.resources
+D:\一个重要的文件夹\课程\信息系统开发工具\大作业\源代码\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.csproj.GenerateResource.Cache
+C:\Users\bee\Desktop\the Sea of Words5.12\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.exe
+C:\Users\bee\Desktop\the Sea of Words5.12\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.pdb
+C:\Users\bee\Desktop\the Sea of Words5.12\the Sea of Words\the Sea of Words\bin\Debug\the Sea of Words.exe
+C:\Users\bee\Desktop\the Sea of Words5.12\the Sea of Words\the Sea of Words\bin\Debug\the Sea of Words.pdb
+C:\Users\bee\Desktop\the Sea of Words5.12\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.csprojResolveAssemblyReference.cache
+C:\Users\bee\Desktop\the Sea of Words5.12\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.BOSSgame.resources
+C:\Users\bee\Desktop\the Sea of Words5.12\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.CHNgame.resources
+C:\Users\bee\Desktop\the Sea of Words5.12\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.Dic_Plan.resources
+C:\Users\bee\Desktop\the Sea of Words5.12\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.ENGgame.resources
+C:\Users\bee\Desktop\the Sea of Words5.12\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.login.resources
+C:\Users\bee\Desktop\the Sea of Words5.12\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.maininterface.resources
+C:\Users\bee\Desktop\the Sea of Words5.12\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.Properties.Resources.resources
+C:\Users\bee\Desktop\the Sea of Words5.12\the Sea of Words\the Sea of Words\obj\x86\Debug\the_Sea_of_Words.SPECIALgame.resources
+C:\Users\bee\Desktop\the Sea of Words5.12\the Sea of Words\the Sea of Words\obj\x86\Debug\the Sea of Words.csproj.GenerateResource.Cache
